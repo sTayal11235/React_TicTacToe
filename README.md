@@ -5,7 +5,7 @@
   
  ​This is a single page website built using below tools - 
  ​  ​*​ HTML 
- ​  ​*​ sass/scss
+ ​  ​*​ scss
  ​  ​*​ JavaScript 
    * ReactJS
  ​   
