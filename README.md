@@ -5,8 +5,8 @@
   
  ​This is a single page website built using below tools - 
  ​  ​*​ HTML 
- ​  ​*​ sass/scaa
+ ​  ​*​ sass/scss
  ​  ​*​ JavaScript 
    * ReactJS
  ​   
- ​[​Visit Portfolio​](https://stayal.surge.sh) 
+ ​[​Visit Site](https://stayal.surge.sh) 
