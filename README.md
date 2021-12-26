@@ -8,6 +8,6 @@
  ​  ​*​ HTML 
  ​  ​*​ scss
  ​  ​*​ JavaScript 
-   * ReactJS
+     *  ReactJS
  ​   
  ​[​Visit Site](https://stayal.surge.sh) 
